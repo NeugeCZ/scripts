@@ -14,4 +14,4 @@ Výstup není žádný, výsledkem jest řada vzájemně zarovnaných seznamů =
 
 # Porovnani_cen: 
 Vyhledávání potenciálně zajímavých cen na Heurece.
-Výsledky se zanáší do tabulky (index - šablona pro jinju).
+Výsledky se zanáší do šablony (index - tabulka v JS).
